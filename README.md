@@ -264,7 +264,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   <summary>Use template literals para escrever uma função que recebe o seu nome e a sua idade e retorna o parágrafo descrito abaixo:</summary><br/>
 
   ```javascript
-  `Oi, o meu nome é Tunico!
+  `Oi, meu nome é Tunico!
   Tenho 30 anos,
   trabalho na Trybe e mando muito em programação!
   #VQV!`
